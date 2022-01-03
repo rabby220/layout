@@ -1,0 +1,54 @@
+.wrapper{
+	width:960px;
+	margin:70px auto;
+	font-family:Arial;
+}
+.header {
+    border: 1px solid black;
+    text-align: center;
+}
+.menu {
+    width: 245px;
+    float: left;
+    padding: 119px 0px;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    text-align: center;
+}
+.main {
+    width: 466px;
+    float: left;
+    padding: 85px 0px;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+.aside {
+    width: 245px;
+    float: left;
+    padding: 119px 0px;
+    text-align: center;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+.footer {
+    border-bottom: 1px solid black;
+    text-align: center;
+    transform: translate(0px, -48px);
+}
+.contact {
+    text-align: center;
+    width: 690px;
+    float: left;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    transform: translate(0px, -48px);
+}
+.location {
+    float: left;
+    text-align: center;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+    width: 267px;
+    transform: translate(0px, -48px);
+}
